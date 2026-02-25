@@ -3,7 +3,7 @@ module light(
 input wire downstairs, upstairs,
 
     // Declare stair light output
-output wire stair_light,
+output wire stair_light
 
 );
 

@@ -6,7 +6,7 @@ input wire A, B,
 output Y,
 
     // Declare carry output
-output carry,
+output carry
 
 );
 
